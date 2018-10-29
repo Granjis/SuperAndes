@@ -1,0 +1,3 @@
+SELECT SUM (VALOR) 
+FROM VENTA
+WHERE '2017-10-03' < fechaVenta;
